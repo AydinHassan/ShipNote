@@ -1,0 +1,12 @@
+{
+    "name": "dh/ship-note",
+    "type":"magento-module",
+    "description": "Magento Extension to allow attaching delivery notes to orders",
+    "minimum-stability": "dev",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "dev-master"
+    }
+}
